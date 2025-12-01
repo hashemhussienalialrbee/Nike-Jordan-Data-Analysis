@@ -1,55 +1,67 @@
 # 👟 Nike Jordan Product Analytics Dashboard – Power BI
 
 ## 📌 Overview
-This interactive Power BI dashboard provides a detailed analysis of Nike Jordan products, allowing users to explore product images, sales trends, customer reviews, and rating insights.  
-The report visually showcases each model with high-quality images and KPI metrics to help stakeholders understand product performance and customer preferences.
+This interactive Power BI dashboard provides a deep visual analysis of Nike Jordan products.  
+The dashboard allows users to browse the product catalog, preview product images, and analyze key performance KPIs such as sale price, total reviews, and rating.
+
+It is designed as a modern, image-driven analytics experience suitable for product managers, sales teams, and e-commerce insights.
+
+---
 
 ## 🎯 Objectives
-- Display Nike Jordan product catalog with dynamic product preview.
-- Analyze key metrics such as:
-  - Sale Price
-  - Number of Reviews
-  - Product Rating
-- Provide an image-driven UI for product exploration.
-- Allow managers to visually compare different Jordan models.
+- Display Nike Jordan product catalog with dynamic image previews.
+- Analyze:
+  - 🔹 Sale Price  
+  - 🔹 Number of Reviews  
+  - 🔹 Product Rating  
+- Provide clean and intuitive product navigation.
+- Support decision-making using visual insights.
+
+---
 
 ## 🛠 Tools & Skills Used
-- Power BI
-- DAX Calculations
-- Power Query (Data Cleaning)
-- Image-based reporting
-- Data Modeling (Star Schema)
-- UX-focused dashboard design
+- Power BI  
+- DAX Calculations  
+- Power Query (Data Cleaning)  
+- Image-based Dashboard Design  
+- Data Modeling (Star Schema)  
+- CSV/Excel Integration  
+
+---
 
 ## 📁 Dataset
-- **Products:** Nike Jordan shoe models
-- **KPIs:** Sale Price, Reviews, Rating
-- **Data Type:** JSON/CSV (Product catalog + images + metadata)
+- **Source:** nike_shoes_sales.csv  
+- **Fields:** Product Name, Images, Sale Price, Rating, Reviews  
+- **Visualization:** Image previews, KPIs, text descriptions  
 
-## 🎥 Dashboard Demo Video
+---
 
-> **Note:** Replace the video filename below with the actual uploaded video name.
+## 🎥 Dashboard Demo (Video)
+> *This video demonstrates the interactive features of the dashboard.*
 
 <video src="nike.mp4" controls width="750"></video>
 
+---
+
 ## 🔍 Key Insights
-- Some Jordan models reach **18K sale price**, indicating premium demand.
-- Customer reviews range widely, with certain models receiving over **4K+ reviews**.
-- Product ratings vary from **2.7 to 4.6**, reflecting different levels of customer satisfaction.
-- Side navigation of product images enhances model comparison and improves decision-making for inventory or marketing.
+- Premium Jordan models reach prices up to **18K**.
+- Customer engagement varies significantly between models.
+- Ratings range from **2.7 to 4.6**, showing varied user satisfaction.
+- Image-based product exploration improves decision-making.
+
+---
 
 ## 🚀 Features
-- 📷 **High-resolution product images**
-- 🔄 **Dynamic image preview** when selecting a product
-- 📊 KPI cards showing:
-  - Sale Price  
-  - Total Reviews  
-  - Rating  
-- 🎛 Interactive layout optimized for product catalogs
-- 🏷 Clean Nike-style UI with modern white/black theme
+- 📷 Interactive product image gallery  
+- 🧭 Dynamic navigation panel  
+- 📊 KPI cards showing price, reviews, and rating  
+- 🖼 Clean Nike-themed visual design  
+- 🔄 Automatic product preview updates  
+
+---
 
 ## 📦 Files Included
-- `Nike_Jordan.pbix`
-- `nike_jordan_demo.mp4`
+- `Nike Jordan.pbix`
+- `nike.mp4`
+- `nike_shoes_sales.csv`
 - `README.md`
-# Nike-Jordan-Data-Analysis
