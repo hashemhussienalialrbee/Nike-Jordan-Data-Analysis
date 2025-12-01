@@ -37,9 +37,11 @@ It is designed as a modern, image-driven analytics experience suitable for produ
 ---
 
 ## 🎥 Dashboard Demo (Video)
-> *This video demonstrates the interactive features of the dashboard.*
 
-<video src="nike.mp4" controls width="750"></video>
+You can watch the full interactive dashboard demo here:
+
+https://github.com/hashemhussienalialrbee/Nike-Jordan-Data-Analysis/blob/main/Nike-Jordan/nike.mp4
+
 
 ---
 
