@@ -30,7 +30,7 @@ The report visually showcases each model with high-quality images and KPI metric
 
 > **Note:** Replace the video filename below with the actual uploaded video name.
 
-<video src="nike_jordan_demo.mp4" controls width="750"></video>
+<video src="nike.mp4" controls width="750"></video>
 
 ## 🔍 Key Insights
 - Some Jordan models reach **18K sale price**, indicating premium demand.
